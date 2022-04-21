@@ -66,6 +66,6 @@ for (int i = 0; i < codeToChange.length(); i++) {
 
 ## Worked By
 
-Flavio Xhelili
-Timela Vogli
-Keiti Cela
+* Flavio Xhelili
+* Timela Vogli
+* Keiti Cela
