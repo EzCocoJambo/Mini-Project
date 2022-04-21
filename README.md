@@ -62,7 +62,9 @@ for (int i = 0; i < codeToChange.length(); i++) {
 				    break;
 ```
 * if the code that we are inserting is the same as the value at index j from morseLetters array,
-    the code will be incremented by the values at i index from letters array
+    the code will be incremented by the values at i index from letters array;
+    
+* if value of code at i index equals "", the decoded text will increment by " ";
 
 ## Worked By
 
